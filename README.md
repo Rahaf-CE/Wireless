@@ -29,6 +29,7 @@ An AI-integrated web application that helps users calculate and understand key c
 - **Deployment**: Render.com
 
 📚 Future Improvements
+
 Add interactive charts for RF power and coverage maps.
 
 Add support for 5G NR parameters and dynamic spectrum allocation.
